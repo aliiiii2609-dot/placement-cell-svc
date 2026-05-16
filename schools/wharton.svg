@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <rect width="120" height="120" rx="8" fill="#16161f" stroke="#272731"/>
+  <circle cx="60" cy="48" r="22" fill="#d4a75130" stroke="#d4a751" stroke-width="1.5"/>
+  <text x="60" y="56" font-family="Georgia, serif" font-style="italic" font-size="16" fill="#d4a751" text-anchor="middle">W</text>
+  <text x="60" y="90" font-family="system-ui, sans-serif" font-size="9" fill="#c4c0b3" text-anchor="middle">Wharton</text>
+  <text x="60" y="105" font-family="JetBrains Mono, monospace" font-size="6" fill="#807c70" text-anchor="middle">LOGO PENDING</text>
+</svg>
