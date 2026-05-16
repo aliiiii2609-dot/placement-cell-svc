@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <rect width="160" height="160" rx="12" fill="#16161f" stroke="#272731" stroke-width="1.5"/>
+  <circle cx="80" cy="70" r="38" fill="#e60026" opacity="0.18" stroke="#e60026" stroke-width="1.5"/>
+  <text x="80" y="80" font-family="Georgia, serif" font-style="italic" font-size="34" font-weight="500" fill="#e60026" text-anchor="middle">6</text>
+  <text x="80" y="125" font-family="system-ui, sans-serif" font-weight="600" font-size="13" fill="#f5f1e8" text-anchor="middle">Outlook</text>
+  <text x="80" y="142" font-family="JetBrains Mono, monospace" font-size="7" fill="#807c70" text-anchor="middle" letter-spacing="1">OFFICIAL BADGE PENDING</text>
+</svg>

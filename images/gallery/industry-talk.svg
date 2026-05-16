@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs><linearGradient id="ggindustry-talk" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1f2a3a"/><stop offset="100%" stop-color="#0a1620"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#ggindustry-talk)"/>
+  <text x="400" y="320" font-family="Georgia, serif" font-style="italic" font-size="42" fill="#d4a75130" text-anchor="middle">Industry talk</text>
+  <text x="400" y="540" font-family="JetBrains Mono, monospace" font-size="13" fill="#d4a751" text-anchor="middle" letter-spacing="3">REAL ARCHIVE PHOTO PENDING</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <defs><linearGradient id="ggmock-interview" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1a2a25"/><stop offset="100%" stop-color="#0a1f1a"/></linearGradient></defs>
+  <rect width="800" height="600" fill="url(#ggmock-interview)"/>
+  <text x="400" y="320" font-family="Georgia, serif" font-style="italic" font-size="42" fill="#d4a75130" text-anchor="middle">Mock interview</text>
+  <text x="400" y="540" font-family="JetBrains Mono, monospace" font-size="13" fill="#d4a751" text-anchor="middle" letter-spacing="3">REAL ARCHIVE PHOTO PENDING</text>
+</svg>
